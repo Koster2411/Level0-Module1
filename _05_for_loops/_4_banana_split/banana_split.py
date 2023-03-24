@@ -4,9 +4,7 @@
 * 2. Your mission is to create a python program that recreates that image
      using the create_text function
      
-* 3. The catch is, you can only type the create_text function ONE TIME ONLY
-     into your program. Using a loop and if-statements, you must figure out
-     how to vary the text and the positioning so that you can read all four
+* positioning so that you can read all four
      separate lines.
 """
 
